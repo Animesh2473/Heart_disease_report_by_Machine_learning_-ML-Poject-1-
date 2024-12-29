@@ -1,6 +1,6 @@
 # Heart Disease Report by Machine Learning (ML Project 1)
 
-![Heart Health](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Heart_icon_red_hollow.svg/1024px-Heart_icon_red_hollow.svg.png)
+![Heart Health](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Heart_icon.svg/1024px-Heart_icon.svg.png)
 
 This project leverages machine learning techniques to predict the presence of heart disease in patients based on their medical attributes and test results. It aims to demonstrate the power of machine learning in the healthcare domain, specifically in predictive diagnostics.
 
@@ -90,10 +90,11 @@ Key attributes in the dataset:
 - **ROC-AUC Score:** IN PROGRESS  
 
 Confusion Matrix:  
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](https://via.placeholder.com/500x300?text=Confusion+Matrix)
 
 ROC Curve:  
-![ROC Curve](results/ROC_curve.png)
+![ROC Curve](https://via.placeholder.com/500x300?text=ROC+Curve)
+
 
 ---
 
